@@ -2,7 +2,7 @@
 title: "S$^2$KAN-SLAM: Elastic Neural LiDAR SLAM with SDF Submaps and Kolmogorov-Arnold Networks"
 collection: publications
 # category: manuscripts
-permalink: /publication/2025-03-14-S2KAN-SLAM-TCSVT: Elastic Neural LiDAR SLAM with SDF Submaps and Kolmogorov-Arnold Networks
+permalink: /publication/2025-03-14-S2KAN-SLAM-TCSVT
 excerpt: ''
 date: 2025-03-14
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
