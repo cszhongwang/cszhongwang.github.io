@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Zhong Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor in Computer Science @Tongji University"
+  bio              : "Assistant Professor, School of Computer Science, Tongji University"
   location         : "Shanghai, China"
-  employer         : "Tongji University"
+  # employer         : "Tongji University"
   uri              : # URL
   email            : "cszhongwang@tongji.edu.cn" 
 

@@ -45,4 +45,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer of ICRA, ACM MM, IEEE Robotics and Automation Letters, IEEE Sensors Journal, IEEE Transactions on Intelligent Vehicle, Journal of Field Robotics.
+* CCF Member.
