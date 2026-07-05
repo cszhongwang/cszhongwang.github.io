@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zhong Wang"
+title                    : "Zhong Wang (王忠)"
 title_separator          : "-"
 name                     : "Zhong Wang"
 description              : "Assistant Professor in Computer Science @Tongji University"   # Update this with a general description of your site, this is the default if not overridden by a page
